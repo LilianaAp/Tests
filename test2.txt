@@ -1,4 +1,0 @@
-This is another test with git
-
-And still another test!
-
