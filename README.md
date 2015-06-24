@@ -16,3 +16,9 @@ To copy local changes to cloud:
 - git add <list_of_files>
 - git commit -m "comment"
 - git push
+
+To check if local copy is updated
+- git remote -v update
+
+To update local copy:
+- git pull
